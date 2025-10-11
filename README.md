@@ -4,12 +4,10 @@
 
 [![Développement Web](https://img.shields.io/badge/HTML-CSS-yellow)](https://www.w3.org/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+[![Markdown](https://img.shields.io/badge/M%20⬇-191970)](https://www.carnus.fr/)
 
 [![Platform](https://img.shields.io/badge/platform-MacOS%20%7C%20Linux%20%7C%20Windows-lightgrey)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-[![Markdown](https://img.shields.io/badge/M%20⬇-191970)](https://www.carnus.fr/)
-[GitHub](https://github.com/boudjelaba)
 
 [![Status](https://img.shields.io/badge/Status-En%20développement-yellow)]()
 ![GitHub repo size](https://img.shields.io/github/repo-size/boudjelaba/atelier-git-vscode)
