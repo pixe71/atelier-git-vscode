@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f1f1f1;
+}
+
+/* En-tête : titre */
+.header {
+    padding: 10px;
+    text-align: center;
+    background: #1abc9caa;
+    color: white;
+    font-size: 20px;
+}
+
+.header h1 {
+  font-size: 30px;
+}
+
+p {
+  color: firebrick;
+}
+
