@@ -23,7 +23,7 @@ Voici les fichiers de base du projet.
 ## Fichiers fournis :
 - accueil.html
 - style.css
-- image.png
+- image.jpg
 - readme.md
 
 ---
