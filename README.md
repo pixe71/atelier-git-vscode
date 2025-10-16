@@ -10,7 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 [![Status](https://img.shields.io/badge/Status-En%20développement-yellow)]()
-![GitHub repo size](https://img.shields.io/github/repo-size/boudjelaba/atelier-git-vscode)
+![GitHub repo size](https://img.shields.io/github/repo-size/pixe71/atelier-git-vscode)
 ![GitHub issues](https://img.shields.io/github/issues/boudjelaba/atelier-git-vscode)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/boudjelaba/atelier-git-vscode)
 ![GitHub last commit](https://img.shields.io/github/last-commit/boudjelaba/atelier-git-vscode)
