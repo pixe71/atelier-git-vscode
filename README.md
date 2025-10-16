@@ -16,6 +16,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/boudjelaba/atelier-git-vscode)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+
 
 
 Voici les fichiers de base du projet.
