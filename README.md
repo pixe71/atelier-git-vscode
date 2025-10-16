@@ -35,6 +35,12 @@ Voici les fichiers de base du projet.
 
 # Tutoriel Git – Git Bash
 
+###```bash
+### python generate_toc.py           # max_level=3 par défaut (##, ###, ####)
+### python generate_toc.py -m 2      # Pour n’avoir que ## et ###
+### python generate_toc.py -m 4      # Pour n’avoir que ##, ###, #### et #####
+###```
+
 ## Objectif :
 
 Apprendre à utiliser **Git en ligne de commande** avec **Git Bash**, à partir de zéro.
